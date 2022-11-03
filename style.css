@@ -367,9 +367,22 @@ h2 { font-size: 32px; }
 
 form { width: 80%; }
 
+#limite {
+    max-width: 1400px;
+    margin: auto;
+}
+
 }
 
     
+@media screen and (min-width: 1600px) {  
+    
+.limite {
+        max-width: 1600px;
+        margin: auto;
+}
 
+
+}
 
  
