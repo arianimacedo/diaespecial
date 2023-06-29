@@ -148,7 +148,8 @@ h2 {
     margin: auto;   
 }
 
-.catalogo {
+.catalogo, 
+.contato{
     font-size: 16px;
     color: #75675E;
     text-align: center;
